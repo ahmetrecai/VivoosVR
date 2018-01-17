@@ -1,0 +1,3 @@
+This attribution is applied for the contents which are in the same folder with this file
+
+City_Background derived from [High-Rise-Building-Under-Cloud-Sky-at-Daytime](https://www.pexels.com/photo/high-rise-building-under-cloudy-sky-at-daytime-242124) by [Kaique Rocha](https://www.pexels.com/u/kaiquestr) from [Pexels](https://www.pexels.com) is licensed under [CC0](https://www.pexels.com/photo-license)
